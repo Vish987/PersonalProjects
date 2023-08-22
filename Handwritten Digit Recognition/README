@@ -1,0 +1,6 @@
+How to Run Program
+
+To run this program, run the recognition.py file with the command line argument model.h5. This program is open-ended to allow many different 
+models to train and test data, allowing an accurate representation of digits. Everything in the handwriting.py file can be changed to train 
+the data with several models, such as adding new layers. To test the accuracy of a created model, run the handwriting.py file with the command 
+line argument model.h5. Feel free to create new models and experiment with the digit recognition program.
