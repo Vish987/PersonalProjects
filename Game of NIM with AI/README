@@ -1,5 +1,6 @@
 How to Run Program
 
-To run this program, run the play.py file. This program allows the customization of numerous. In the play.py file, the number of games the NIM AI 
-plays with itself can be changed in line 3 (default is 7500). In the nim.py file, the alpha and epsilon learning rates can be changed in line 75 
-(default is 0.5 and 0.1). Additionally, the randomization of which player goes first can be changed in line 241 (default is None, meaning random).
+To run this program, run the play.py file. This program allows the customization of numerous features. In the play.py file, the number of games 
+the NIM AI plays with itself can be changed in line 3 (default is 7500). In the nim.py file, the alpha and epsilon learning rates can be changed 
+in line 75 (default is 0.5 and 0.1). Additionally, the randomization of which player goes first can be changed in line 241 (default is None, 
+meaning random). Feel free to change these settings and experiment with the NIM AI.
